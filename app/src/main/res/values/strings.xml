@@ -2,4 +2,19 @@
     <string name="app_name">About Me</string>
     <string name="name">Andrey Kushnaryov</string>
     <string name="yellow_star">Yellow</string>
+    <string name="bio"> Hi, my name is Andrey.
+        \n\nI love chess.
+        \n\nI play on various sites We can say that this is a semi-professional job.
+        \nAt my work, I have a separate notebook
+        \n\nI  in which I look when I want to take a break and then turn off the mental process .
+        \nto analyze the game
+        \nI work as an android developer
+        \n\nAnd therefore I play in my free time also on my device.
+        \n\nI\But I still like my main job - application development
+        \nYIf you have questions, I can answer\n\n
+
+    </string>
+    <string name="what_nickname">What is your Nickname?</string>
+    <string name="done">DONE</string>
+
 </resources>
